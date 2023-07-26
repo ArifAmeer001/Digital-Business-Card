@@ -1,3 +1,5 @@
+![Screenshot (53)](https://github.com/ArifAmeer001/Digital-Business-Card/assets/73752909/cf326b53-e6df-436d-b78f-03feb0215ac3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
